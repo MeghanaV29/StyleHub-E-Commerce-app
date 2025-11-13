@@ -34,8 +34,7 @@ StyleHub is a front-end e-commerce web application designed to provide a seamles
 2. Open the `index.html` file in any browser.  
 3. Explore categories, add items to wishlist or cart, and proceed to checkout simulation.  
 
-## 📸 Preview  
-(Add screenshot link or demo GIF once you deploy it)
+
 
 ## 🧾 Project Type  
 Frontend Project – HTML, CSS, JavaScript  
