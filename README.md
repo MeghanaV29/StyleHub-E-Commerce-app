@@ -29,7 +29,7 @@ StyleHub is a front-end e-commerce web application designed to provide a seamles
 ## 🚀 How to Run  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/MeghanaV29/stylehub.git
+   git clone https://github.com/MeghanaV29/StyleHub-E-Commerce-app
    ```  
 2. Open the `index.html` file in any browser.  
 3. Explore categories, add items to wishlist or cart, and proceed to checkout simulation.  
